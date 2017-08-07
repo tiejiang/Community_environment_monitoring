@@ -1,0 +1,14 @@
+..\Output\dht11.o: DTH11\DHT11.c
+..\Output\dht11.o: DTH11\DHT11.h
+..\Output\dht11.o: ..\CMSIS\stm32f10x.h
+..\Output\dht11.o: ..\CMSIS\core_cm3.h
+..\Output\dht11.o: D:\MDK\ARM\RV31\INC\stdint.h
+..\Output\dht11.o: ..\CMSIS\system_stm32f10x.h
+..\Output\dht11.o: ..\USER\stm32f10x_conf.h
+..\Output\dht11.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\dht11.o: ..\CMSIS\stm32f10x.h
+..\Output\dht11.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\dht11.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\dht11.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\dht11.o: ..\FWlib\inc\misc.h
+..\Output\dht11.o: .\SysTick\SysTick.h

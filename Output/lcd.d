@@ -1,0 +1,14 @@
+..\Output\lcd.o: 5110\LCD.c
+..\Output\lcd.o: ..\CMSIS\stm32f10x.h
+..\Output\lcd.o: ..\CMSIS\core_cm3.h
+..\Output\lcd.o: D:\MDK\ARM\RV31\INC\stdint.h
+..\Output\lcd.o: ..\CMSIS\system_stm32f10x.h
+..\Output\lcd.o: ..\USER\stm32f10x_conf.h
+..\Output\lcd.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\lcd.o: ..\CMSIS\stm32f10x.h
+..\Output\lcd.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\lcd.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\lcd.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\lcd.o: ..\FWlib\inc\misc.h
+..\Output\lcd.o: 5110\lcd.h
+..\Output\lcd.o: 5110\English.h
